@@ -2,7 +2,7 @@
 
 # Overview
 
-This project focuses on time series forecasting for a bike sharing dataset. The goal is to build and evaluate predictive models to forecast the demand for bike rentals. The analysis includes data exploration, preprocessing, modeling using SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors), and forecasting.
+This project focuses on time series forecasting for a bike-sharing dataset. The goal is to build and evaluate predictive models to forecast the demand for bike rentals. The analysis includes data exploration, preprocessing, modeling using SARIMAX (Seasonal AutoRegressive Integrated Moving Average with exogenous factors), and forecasting.
 
 ## Dataset
 
@@ -12,7 +12,7 @@ The dataset used in this project is the [Bike Sharing Dataset](https://archive.i
 
 - `data/`: Directory to store the dataset files.
 - `notebooks/`: Jupyter notebooks containing data exploration, preprocessing, modeling, and evaluation.
-- `README.md`: This file providing an overview of the project.
+- `README.md`: This file provides an overview of the project.
 
 ## Requirements
 
@@ -22,4 +22,3 @@ The dataset used in this project is the [Bike Sharing Dataset](https://archive.i
   pip install -r requirements.txt
 
   git clone [https://github.com/MarRazane/Bike-Sharing-Time-Series-Forecasting-Project.git]
-cd bike-sharing-forecasting
